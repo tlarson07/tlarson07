@@ -39,4 +39,4 @@ const ridgeline: Company = {
 }
 ```
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64af82eb5f038d81eead9364?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64af82eb5f038d81eead9364?variant=dark)](https://roadmap.sh)
